@@ -1,0 +1,5 @@
+package com.brokebanking.dao.dbutil;
+
+public class PostgresqlConnection {
+
+}
