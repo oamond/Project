@@ -1,0 +1,13 @@
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       06-Jan-2021 Wednesday CST 20:15:22
+{DEBUG}  com.brokebankapp.main.BrokeBankLog   DEBUG from BrokeBankLog       06-Jan-2021 Wednesday CST 20:15:33
+{INFO}  com.brokebankapp.main.BrokeBankLog   INFO from BrokeBankLog       06-Jan-2021 Wednesday CST 20:15:33
+{WARN}  com.brokebankapp.main.BrokeBankLog   WARN from BrokeBankLog       06-Jan-2021 Wednesday CST 20:15:33
+{ERROR}  com.brokebankapp.main.BrokeBankLog   ERROR from BrokeBankLog       06-Jan-2021 Wednesday CST 20:15:33
+{FATAL}  com.brokebankapp.main.BrokeBankLog   FATAL from BrokeBankLog       06-Jan-2021 Wednesday CST 20:15:33
+{INFO}  com.brokebankapp.service.BrokeBankLogService   hello from log service brokeLog()       06-Jan-2021 Wednesday CST 20:15:33
+{DEBUG}  com.brokebankapp.service.BrokeBankLogService   bye bye from log service brokeLog()       06-Jan-2021 Wednesday CST 20:15:33
+{INFO}  com.brokebankapp.service.BrokeBankLogService   hello from log service brokeLog()       06-Jan-2021 Wednesday CST 22:15:46
+{DEBUG}  com.brokebankapp.service.BrokeBankLogService   bye bye from log service brokeLog()       06-Jan-2021 Wednesday CST 22:15:46
+{INFO}  com.brokebankapp.service.BrokeBankLogService   hello from log service brokeLog()       06-Jan-2021 Wednesday CST 22:16:41
+{DEBUG}  com.brokebankapp.service.BrokeBankLogService   bye bye from log service brokeLog()       06-Jan-2021 Wednesday CST 22:16:41
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       06-Jan-2021 Wednesday CST 22:17:01
