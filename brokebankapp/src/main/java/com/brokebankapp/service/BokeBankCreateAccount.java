@@ -1,4 +1,4 @@
-package com.brokebankapp.main;
+package com.brokebankapp.service;
 
 public class BokeBankCreateAccount {
 
