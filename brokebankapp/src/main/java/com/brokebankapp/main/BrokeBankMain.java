@@ -10,8 +10,6 @@ import org.apache.log4j.Logger;
 
 import com.brokebankapp.dao.CustomerAccCrudDAO;
 import com.brokebankapp.dao.impl.CustomerAccCrudDAOImpl;
-import com.brokebankapp.exception.BusinessException;
-import com.brokebankapp.model.Customer;
 
 
 
@@ -20,24 +18,29 @@ public class BrokeBankMain {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int customer = 0;
+		
 		System.out.println("Welcome to BrokeBank app v1");
 		System.out.println("---------------------------");
+		log.debug("CustomerMain excuted");
+		CustomerAccCrudDAO customer = new CustomerAccCrudDAOImpl();
+		customer.createCustomer();
+		
 		System.out.println("select a number a enter then ");
 		System.out.println("please create the following :");
 		System.out.println("1) Username ");
 		System.out.println("2) Password ");
 		System.out.println("3) Full Name ");
-		log.debug("CustomerMain excuted");
+		
 		try {
-			customer = Integer.parseInt(sc.nextLine());
+		 customer = Integer.parseInt(sc.nextLine());
 		} catch (NumberFormatException e) {
 			System.out.println(e.getMessage());
 		}
 	
 		switch (customer) {
 		case 1:
-			System.out.println("under construction, please come back later");
+			System.out.println("enter your username:");
+			
 			break;
 		case 2:
 			System.out.println("under construction, please come back later");
@@ -48,7 +51,7 @@ public class BrokeBankMain {
 		default:
 			System.out.println("Invalid menu entries, please try again");
 			break;
-		} while (customer != 3);
+		}// while (customer != 3);
 		
 		
 		
