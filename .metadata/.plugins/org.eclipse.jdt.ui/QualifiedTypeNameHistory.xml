@@ -3,9 +3,20 @@
     <fullyQualifiedTypeName name="com.brokebanking.service.Log4jService"/>
     <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.Logger"/>
     <fullyQualifiedTypeName name="com.brokebankapp.service.BrokeBankLogService"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-    <fullyQualifiedTypeName name="jdk.internal.org.jline.utils.Log"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.service.CustomerAcc"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.CustomerAccDAO"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.impl.CustomerAccDAOImpl"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.utils.Log"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.model.Customer"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.exception.BusinessException"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.CustomerAccCrudDAO"/>
 </qualifiedTypeNameHistroy>

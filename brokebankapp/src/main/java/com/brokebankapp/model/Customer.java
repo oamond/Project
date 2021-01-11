@@ -17,15 +17,13 @@ public class Customer {
 		
 	}
 	
-	public Customer(int cxid, String username, String password, int account_id, double balance, String full_name, Date dob) {
+	public Customer(int cxid, String username, String password, String full_name) {
 		super();
 		this.cxid = cxid;
 		this.username = username;
 		this.password = password;
-		this.account_id = account_id;
-		this.balance = balance;
 		this.full_name = full_name;
-		this.dob = dob;
+		
 	}
 
 

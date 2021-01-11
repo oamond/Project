@@ -17,3 +17,28 @@
 {DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       09-Jan-2021 Saturday CST 19:14:15
 {DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       09-Jan-2021 Saturday CST 19:25:44
 {DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       09-Jan-2021 Saturday CST 19:29:37
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:09:24
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:09:26
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:11:35
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:13:52
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:14:22
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:14:52
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:14:53
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:14:54
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:31:41
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:31:52
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:57:52
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 18:59:05
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 19:16:34
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 19:16:46
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 19:17:58
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 21:16:16
+{DEBUG}  com.brokebankapp.dao.dbutil.BrokeBankdbConnectivityutilService   connectivity service, connection success       10-Jan-2021 Sunday CST 21:16:50
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 22:55:59
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 22:56:34
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:05:27
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:08:52
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:11:23
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:13:18
+{DEBUG}  com.brokebankapp.main.CustomerMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:14:06
+{DEBUG}  com.brokebankapp.main.BrokeBankMain   CustomerMain excuted       10-Jan-2021 Sunday CST 23:17:21
