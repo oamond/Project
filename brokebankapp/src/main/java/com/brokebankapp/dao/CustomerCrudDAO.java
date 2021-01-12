@@ -5,9 +5,9 @@ import java.util.Date;
 import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Customer;
 
-public interface CustomerAccCrudDAO {
+public interface CustomerCrudDAO {
 	
-	public Customer CreateCustomer(Customer customer)throws BusinessException;
+	public Customer CreateCustomer(int cxid, String username, String password, String full_name)throws BusinessException;
 	
 
 	

@@ -5,22 +5,22 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.Date;
 
-import com.brokebankapp.dao.CustomerAccCrudDAO;
+import com.brokebankapp.dao.CustomerCrudDAO;
 import com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity;
 import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Customer;
 
-public class CustomerAccCrudDAOImpl implements CustomerAccCrudDAO{
+public class CustomerCrudDAOImpl implements CustomerCrudDAO{
 
 	@Override
-	public Customer CreateCustomer(Customer customer) throws BusinessException {
+	public Customer CreateCustomer(int cxid, String username, String password, String full_name) throws BusinessException {
 		try(Connection connection = BrokeBankdbConnectivity.getConnection()) {
 			String sql = "insert into maindb.customer(cxid, username, password, full_name) values( ?, ?, ?, ?) ";
 			PreparedStatement preparedStatement = connection.prepareStatement(sql);
-			preparedStatement.setInt(1,customer.getCxid());
-			preparedStatement.setString(2, customer.getUsername());
-			preparedStatement.setString(3, customer.getPassword());
-			preparedStatement.setString(4, customer.getFull_namel());
+			preparedStatement.setInt(1,cxid);
+			preparedStatement.setString(2, username);
+			preparedStatement.setString(3, password);
+			preparedStatement.setString(4, full_name);
 			preparedStatement.executeUpdate();
 			
 			
@@ -32,7 +32,7 @@ public class CustomerAccCrudDAOImpl implements CustomerAccCrudDAO{
 	}
 	
 	
-//
+
 //	@Override
 //	public Customer CustomerId(int cxid) throws BusinessException {
 //		
