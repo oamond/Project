@@ -43,7 +43,9 @@ public class BrokeBankMain {
 			System.out.println("please enter a unique 8 digit combination");
 			try {
 				Scanner sc1 = new Scanner(System.in);
-				customer.CustomerId(sc1.nextInt());
+			
+				
+			
 				
 			} catch (NumberFormatException e) {
 				// TODO Auto-generated catch block
@@ -55,6 +57,13 @@ public class BrokeBankMain {
 			break;
 		case 2:
 			System.out.println("Enter username, min 6 characters");
+			try {
+				Scanner sc2 = new Scanner(System.in);
+			//	customer.Customerusername(sc2.nextLine());
+				
+			}catch (NumberFormatException e) {
+				System.out.println(e.getMessage());
+			}
 			break;
 		case 3:
 			System.out.println("under construction 3");
