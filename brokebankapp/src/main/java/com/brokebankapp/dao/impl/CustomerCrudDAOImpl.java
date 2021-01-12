@@ -5,12 +5,17 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.Date;
 
+import org.apache.log4j.Logger;
+
 import com.brokebankapp.dao.CustomerCrudDAO;
 import com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity;
 import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Customer;
 
 public class CustomerCrudDAOImpl implements CustomerCrudDAO{
+	
+	private static Logger log = Logger.getLogger(CustomerCrudDAOImpl.class);
+	
 
 	@Override
 	public Customer CreateCustomer(int cxid, String username, String password, String full_name) throws BusinessException {
@@ -26,7 +31,7 @@ public class CustomerCrudDAOImpl implements CustomerCrudDAO{
 			
 		} catch (ClassNotFoundException | SQLException e) {
 			// TODO Auto-generated catch block
-			System.out.println(e.getMessage());
+			log.debug(e.getMessage());
 		} 
 		return null;
 	}

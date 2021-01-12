@@ -4,12 +4,16 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import org.apache.log4j.Logger;
+
 import com.brokebankapp.dao.EmployeeCrudDAO;
 import com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity;
 import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Employee;
 
 public class EmployeeCrudDAOImpl implements EmployeeCrudDAO {
+	
+	private static Logger log = Logger.getLogger(EmployeeCrudDAOImpl.class);
 
 	@Override
 	public Employee CreateEmployee(int empid, String username, String password, String empname) throws BusinessException {
@@ -28,8 +32,8 @@ public class EmployeeCrudDAOImpl implements EmployeeCrudDAO {
 			
 		} catch (ClassNotFoundException | SQLException e) {
 			// TODO Auto-generated catch block
-			System.out.println(e.getMessage());
-			System.out.println("ERROR: EmployeeCrudDAOImpl:com.brokebankapp.dao.impl");
+			log.debug(e.getMessage());
+			log.debug("ERROR: EmployeeCrudDAOImpl:com.brokebankapp.dao.impl");
 		} 
 		return null;
 	}

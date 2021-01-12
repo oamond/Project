@@ -4,6 +4,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import org.apache.log4j.Logger;
+
 import com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity;
 import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Customer;
@@ -11,6 +13,9 @@ import com.brokebankapp.model.Employee;
 import com.brokebankapp.service.BrokeBankCreateAccountService;
 
 public class BrokeBankCreateAccountServiceImpl implements BrokeBankCreateAccountService {
+	
+	private static Logger log = Logger.getLogger(BrokeBankCreateAccountServiceImpl.class);
+	
 
 	@Override
 	public Customer CreateCustomer(int cxid, String username, String password, String full_name)
@@ -27,7 +32,7 @@ public class BrokeBankCreateAccountServiceImpl implements BrokeBankCreateAccount
 			
 		} catch (ClassNotFoundException | SQLException e) {
 			// TODO Auto-generated catch block
-			System.out.println(e.getMessage());
+			log.debug(e.getMessage());
 		} 
 		return null;
 	}
@@ -49,8 +54,8 @@ public class BrokeBankCreateAccountServiceImpl implements BrokeBankCreateAccount
 			
 		} catch (ClassNotFoundException | SQLException e) {
 			// TODO Auto-generated catch block
-			System.out.println(e.getMessage());
-			System.out.println("ERROR: EmployeeCrudDAOImpl:com.brokebankapp.dao.impl");
+			log.debug(e.getMessage());
+			log.debug("ERROR: EmployeeCrudDAOImpl:com.brokebankapp.dao.impl");
 		}
 		return null;
 	}
