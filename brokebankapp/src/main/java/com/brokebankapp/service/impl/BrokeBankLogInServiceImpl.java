@@ -14,6 +14,8 @@ import com.brokebankapp.service.BrokeBankLogInService;
 
 public class BrokeBankLogInServiceImpl implements BrokeBankLogInService {
 	//Set for customer login verificantion 
+	//need to fix statement 
+	
 	private static Logger log = Logger.getLogger(BrokeBankLogInServiceImpl.class);
 
 	@Override

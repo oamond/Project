@@ -9,8 +9,8 @@ public class AccountsMain {
 	private double balance;
 	private int transid;
 	
-	public AccountsMain() {
-		
+	public AccountsMain() {		//basic Constructor
+	
 	}
 
 	public int getAccount_id() {

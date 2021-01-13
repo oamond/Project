@@ -6,7 +6,7 @@ import com.brokebankapp.exception.BusinessException;
 import com.brokebankapp.model.Customer;
 
 public interface CustomerCrudDAO {
-	
+	// to create cutomer could use more work
 	public Customer CreateCustomer(int cxid, String username, String password, String full_name)throws BusinessException;
 	
 

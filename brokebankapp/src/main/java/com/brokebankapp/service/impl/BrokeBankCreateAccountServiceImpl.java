@@ -13,6 +13,7 @@ import com.brokebankapp.model.Employee;
 import com.brokebankapp.service.BrokeBankCreateAccountService;
 
 public class BrokeBankCreateAccountServiceImpl implements BrokeBankCreateAccountService {
+	//account creation for employee and customer
 	
 	private static Logger log = Logger.getLogger(BrokeBankCreateAccountServiceImpl.class);
 	
