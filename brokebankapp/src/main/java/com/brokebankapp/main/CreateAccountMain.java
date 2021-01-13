@@ -11,7 +11,9 @@ import com.brokebankapp.service.impl.BrokeBankCreateAccountServiceImpl;
 public class CreateAccountMain {
 	
 	private static Logger log = Logger.getLogger(CreateAccountMain.class);
-	
+	//Main for all services
+	//needs work. 
+	//need serializer for cxid 
 	public static void main(String[] args) throws BusinessException {
 	
 		Scanner sc = new Scanner(System.in);

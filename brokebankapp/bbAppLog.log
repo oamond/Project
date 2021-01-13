@@ -99,3 +99,27 @@
 {DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:41:20
 {DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:41:23
 {DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:41:23
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       13-Jan-2021 Wednesday CST 09:49:09
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        13-Jan-2021 Wednesday CST 09:49:09
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        13-Jan-2021 Wednesday CST 09:49:09
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   71906164       13-Jan-2021 Wednesday CST 09:55:11
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   85588250       13-Jan-2021 Wednesday CST 09:55:14
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   75791919       13-Jan-2021 Wednesday CST 09:55:15
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   85934630       13-Jan-2021 Wednesday CST 10:03:35
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   30136198       13-Jan-2021 Wednesday CST 10:03:37
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   40667907       13-Jan-2021 Wednesday CST 10:04:44
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   26446163       13-Jan-2021 Wednesday CST 10:12:48
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   70441893       13-Jan-2021 Wednesday CST 10:13:22
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   16069534       13-Jan-2021 Wednesday CST 10:13:33
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   32297919       13-Jan-2021 Wednesday CST 10:13:38
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   66624224       13-Jan-2021 Wednesday CST 10:16:52
+{DEBUG}  com.brokebankapp.service.impl.CustomerIdGenerator   80646735       13-Jan-2021 Wednesday CST 10:16:57
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   21998363       13-Jan-2021 Wednesday CST 10:20:04
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   29104205       13-Jan-2021 Wednesday CST 10:20:18
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   24856573       13-Jan-2021 Wednesday CST 10:20:20
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   32111271       13-Jan-2021 Wednesday CST 10:20:22
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   15289018       13-Jan-2021 Wednesday CST 10:20:23
+{DEBUG}  com.brokebankapp.service.impl.EmployeeIdGenerator   35670609       13-Jan-2021 Wednesday CST 10:20:25
+{DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   671346906       13-Jan-2021 Wednesday CST 10:29:47
+{DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   674462948       13-Jan-2021 Wednesday CST 10:30:17
+{DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   512884011       13-Jan-2021 Wednesday CST 10:40:34

@@ -9,7 +9,6 @@ INDEX VERSION 1.131+C:\Users\mondr\Documents\bankproject\.metadata\.plugins\org.
 1979233431.index
 1431488375.index
 3667582168.index
-3141119542.index
 3917242602.index
 1736571428.index
 2474238406.index

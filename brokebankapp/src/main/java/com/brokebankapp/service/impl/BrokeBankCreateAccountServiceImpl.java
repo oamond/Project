@@ -61,4 +61,15 @@ public class BrokeBankCreateAccountServiceImpl implements BrokeBankCreateAccount
 		return null;
 	}
 
+	@Override
+	public Customer Deposit(Double balance) throws BusinessException {
+		try(Connection connection = BrokeBankdbConnectivity.getConnection()){
+			String sql = "insert into maindb.customer(balance) values(?)";
+		} catch (ClassNotFoundException | SQLException e) {
+			// TODO Auto-generated catch block
+			log.debug(e.getMessage());
+		}
+		return null;
+	}
+
 }
