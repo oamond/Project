@@ -7,3 +7,95 @@
 {DEBUG}  com.brokebankapp.main.CreateAccountMain   4) Please Enter your Full Name       12-Jan-2021 Tuesday CST 17:20:07
 {DEBUG}  com.brokebankapp.main.CreateAccountMain   Press ENTER to begin and after each entry is given.       12-Jan-2021 Tuesday CST 17:20:07
 {DEBUG}  com.brokebankapp.main.CreateAccountMain   ------------------------------------------------------       12-Jan-2021 Tuesday CST 17:20:07
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in       12-Jan-2021 Tuesday CST 18:50:05
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Username:       12-Jan-2021 Tuesday CST 18:50:05
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   123       12-Jan-2021 Tuesday CST 18:50:09
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Password       12-Jan-2021 Tuesday CST 18:50:09
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   123       12-Jan-2021 Tuesday CST 18:50:11
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in       12-Jan-2021 Tuesday CST 18:50:14
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Username:       12-Jan-2021 Tuesday CST 18:50:14
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   //       12-Jan-2021 Tuesday CST 18:50:21
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Password       12-Jan-2021 Tuesday CST 18:50:21
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   !!       12-Jan-2021 Tuesday CST 18:50:25
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in       12-Jan-2021 Tuesday CST 18:50:28
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Username:       12-Jan-2021 Tuesday CST 18:50:28
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   )(*)(*)       12-Jan-2021 Tuesday CST 18:50:31
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Password       12-Jan-2021 Tuesday CST 18:50:31
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   88888?>"{       12-Jan-2021 Tuesday CST 18:50:37
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in       12-Jan-2021 Tuesday CST 21:53:05
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Username:       12-Jan-2021 Tuesday CST 21:53:05
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:22:45
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:22:45
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:22:45
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   A result was returned when none was expected.       12-Jan-2021 Tuesday CST 22:22:52
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:22:52
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:29:15
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:29:15
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:29:15
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:29:22
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:29:22
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:30:20
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:30:20
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:30:20
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:30:26
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:30:26
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:30:52
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:30:52
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:30:52
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:30:56
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:30:56
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:31:27
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:31:27
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:31:27
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:31:32
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:31:32
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:31:50
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:31:50
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:31:50
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:31:54
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:31:54
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:34:15
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:34:15
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:34:15
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:34:19
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:34:19
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:34:38
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:34:38
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:34:38
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:34:42
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:34:42
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:34:47
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:34:47
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:34:47
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:34:50
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:34:50
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:34:53
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:34:53
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:34:53
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:34:55
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:34:55
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:35:13
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:35:13
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:35:13
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:35:16
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:35:16
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:37:21
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:37:21
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:37:21
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:37:25
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:37:25
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:37:47
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:37:47
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:37:47
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:37:54
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:37:54
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:40:34
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:40:34
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:40:34
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:40:39
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:40:39
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   Log in using your       12-Jan-2021 Tuesday CST 22:41:20
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   1) Username :        12-Jan-2021 Tuesday CST 22:41:20
+{DEBUG}  com.brokebankapp.main.BrokeBankLogInMain   2) Password :        12-Jan-2021 Tuesday CST 22:41:20
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   No value specified for parameter 1.       12-Jan-2021 Tuesday CST 22:41:23
+{DEBUG}  com.brokebankapp.service.impl.BrokeBankLogInServiceImpl   ERROR BrokeBankLogInServiceImpl:com.brokebankapp.service.impl:CustomerLogIn       12-Jan-2021 Tuesday CST 22:41:23

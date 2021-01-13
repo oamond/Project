@@ -13,14 +13,19 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="com.brokebankapp.exception.BusinessException"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
-    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
     <fullyQualifiedTypeName name="com.brokebankapp.dao.impl.CustomerAccDAOImpl"/>
     <fullyQualifiedTypeName name="org.apache.log4j.chainsaw.Main"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.brokebankapp.dao.CustomerAccCrudDAO"/>
     <fullyQualifiedTypeName name="com.brokebankapp.dao.impl.CustomerAccCrudDAOImpl"/>
     <fullyQualifiedTypeName name="com.brokebankapp.model.Customer"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.dbutil.BrokeBankdbConnectivity"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.service.BrokeBankEmployeeService"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.dao.impl.CustomerCrudDAOImpl"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.service.BrokeBankCustomerService"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.service.BrokeBankCreateAccountService"/>
+    <fullyQualifiedTypeName name="com.brokebankapp.service.impl.BrokeBankCreateAccountServiceImpl"/>
+    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
 </qualifiedTypeNameHistroy>

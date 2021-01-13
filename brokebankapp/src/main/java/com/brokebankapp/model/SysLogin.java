@@ -10,6 +10,18 @@ public class SysLogin {
 	public SysLogin() {
 		
 	}
+	
+	
+
+	public SysLogin(String username, String password, int cxid, int empid) {
+		super();
+		this.username = username;
+		this.password = password;
+		this.cxid = cxid;
+		this.empid = empid;
+	}
+
+
 
 	public String getUsername() {
 		return username;
