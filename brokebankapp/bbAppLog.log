@@ -123,3 +123,95 @@
 {DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   671346906       13-Jan-2021 Wednesday CST 10:29:47
 {DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   674462948       13-Jan-2021 Wednesday CST 10:30:17
 {DEBUG}  com.brokebankapp.service.impl.SysTransactionIdGenerator   512884011       13-Jan-2021 Wednesday CST 10:40:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:18:09
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:18:09
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:18:09
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:18:09
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:18:09
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:18:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:18:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:18:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:18:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:18:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:21:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:21:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:21:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:21:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:21:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:22:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:22:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:22:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:22:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:22:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:24:24
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:24:24
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:24:24
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:24:24
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:24:24
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:41:22
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:41:22
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:41:22
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:41:22
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:41:22
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:41:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:41:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:41:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:41:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:41:34
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Hello Dear Customer, thank you for choosing BrokeBank       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------------------------       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   To create your account please enter the following        13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) create an account ID (8 number combination)       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Create a Username (Minimum of 6 characters       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   3) Create a password (May contain 2 special characters)       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   4) Please Enter your Full Name       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Press ENTER to begin and after each entry is given.       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   ------------------------------------------------------       13-Jan-2021 Wednesday CST 12:41:37
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:41:44
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:41:44
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:41:44
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:41:44
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:41:44
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Hello Dear Employee, thank you for working at BrokeBank       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------------------------       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   To create your account please enter the following        13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) create an account ID (8 number combination)       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Create a Username (Minimum of 6 characters       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   3) Create a password (May contain 2 special characters)       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   4) Please Enter your Full Name       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Press ENTER to begin and after each entry is given.       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   ------------------------------------------------------       13-Jan-2021 Wednesday CST 12:41:45
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 12:41:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 12:41:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 12:41:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 12:41:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 12:41:55
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 13:19:02
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 13:19:02
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 13:19:02
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 13:19:02
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 13:19:02
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Hello Dear Employee, thank you for working at BrokeBank       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------------------------       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   To create your account please enter the following        13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) create an account ID       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Create a Username       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   3) Create a password       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   4) Please Enter your Full Name       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Press ENTER to begin and after each entry is given.       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   ------------------------------------------------------       13-Jan-2021 Wednesday CST 13:19:04
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Welcome to BrokeBank Account set-up       13-Jan-2021 Wednesday CST 13:25:13
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Please select one of the following       13-Jan-2021 Wednesday CST 13:25:13
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------       13-Jan-2021 Wednesday CST 13:25:13
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) Customer Account       13-Jan-2021 Wednesday CST 13:25:13
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Employee Account       13-Jan-2021 Wednesday CST 13:25:13
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Hello Dear Customer, thank you for choosing BrokeBank       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   -----------------------------------------------------       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   To create your account please enter the following        13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   1) create an account ID       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   2) Create a Username        13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   3) Create a password        13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   4) Please Enter your Full Name       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Press ENTER to begin and after each entry is given.       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   ------------------------------------------------------       13-Jan-2021 Wednesday CST 13:25:21
+{DEBUG}  com.brokebankapp.main.CreateAccountMain   Customer account Created Succesfully       13-Jan-2021 Wednesday CST 13:26:24

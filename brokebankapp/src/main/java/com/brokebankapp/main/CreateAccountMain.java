@@ -33,9 +33,9 @@ public class CreateAccountMain {
 					log.debug("Hello Dear Customer, thank you for choosing BrokeBank");
 					log.debug("-----------------------------------------------------");
 					log.debug("To create your account please enter the following ");
-					log.debug("1) create an account ID (8 number combination)");
-					log.debug("2) Create a Username (Minimum of 6 characters");
-					log.debug("3) Create a password (May contain 2 special characters)");
+					log.debug("1) create an account ID");
+					log.debug("2) Create a Username ");
+					log.debug("3) Create a password ");
 					log.debug("4) Please Enter your Full Name");
 					log.debug("Press ENTER to begin and after each entry is given.");
 					log.debug("------------------------------------------------------");
@@ -53,9 +53,9 @@ public class CreateAccountMain {
 					log.debug("Hello Dear Employee, thank you for working at BrokeBank");
 					log.debug("-----------------------------------------------------");
 					log.debug("To create your account please enter the following ");
-					log.debug("1) create an account ID (8 number combination)");
-					log.debug("2) Create a Username (Minimum of 6 characters");
-					log.debug("3) Create a password (May contain 2 special characters)");
+					log.debug("1) create an account ID");
+					log.debug("2) Create a Username");
+					log.debug("3) Create a password");
 					log.debug("4) Please Enter your Full Name");
 					log.debug("Press ENTER to begin and after each entry is given.");
 					log.debug("------------------------------------------------------");
